@@ -8,7 +8,7 @@ Task 1: Top 2 branches by sales bar graph and rating histogram analysis using Py
 This project is part of my Data Science Internship (Task 1).  
 In this task, I worked on the **Supermarket Sales Dataset** and performed basic data analysis and visualization.
 
----
+--
 
 ## 📌 Files Included
 
